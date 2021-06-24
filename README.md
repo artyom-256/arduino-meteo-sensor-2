@@ -4,8 +4,6 @@ Simple Arduino project of a meteo sensor displaying current temperature and humi
 The set up is based on Arduino Nano soldered into a breadboard, although it is possible to replace it with Uno and avoid soldring.
 The project is based on ELEGOO tutorials: https://www.elegoo.com/pages/arduino-kits-support-files
 
-WARNING: If you use a non-original Arduino Nano based on CH340/CH341 USB chip, you need to dowload drivers from http://www.wch.cn/download/CH341SER_EXE.html, otherwise Arduino studio does not recongnize the board.
-
 ![Image](image.jpg)
 
 ### Equipment
@@ -19,6 +17,8 @@ WARNING: If you use a non-original Arduino Nano based on CH340/CH341 USB chip, y
 * DC-005 feemale plug - x1
 * Soldering set (iron, solder, flux, e.t.c.) - x1
 * USB Cable - x1
+
+⚠️⚠️⚠️ If you use a non-original Arduino Nano based on CH340/CH341 USB chip, you need to dowload drivers from http://www.wch.cn/download/CH341SER_EXE.html, otherwise Arduino studio does not recongnize the board.
 
 ### Circuit Diagram
 ![Circuit Diagram](diagram/arduino-meteo-sensor-2.png)
