@@ -1,4 +1,4 @@
-# Aduino-Meteo-Sensor
+# Arduino Meteo Sensor
 
 Simple Arduino project of a meteo sensor displaying current temperature and humidity values.
 The set up is based on Arduino Nano soldered into a breadboard, although it is possible to replace it with Uno and avoid soldring.
